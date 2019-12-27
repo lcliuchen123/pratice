@@ -29,6 +29,6 @@
     实习时间：2019-07-16-2019-08-26
     实习内容：
         1.在superset上配置报表（sql),留存，新增用户数，人均观看时长，人均观看次数，语音数，点赞数，分享数等核心指标。
-        2.编写notebook脚本日报，利用python连接mysql，hive，presto。
+        2.编写notebook脚本日报，[利用python连接mysql，hive，presto](https://blog.csdn.net/qq_33168200/article/details/97620823)。
         3.监测拉新、留存等核心指标。分析AB实验的效果，验证推送策略是否可行。
         埋点事件：app_start,ad_show,client_show,video_play,video_effective_play,video_over,share,audio,like
